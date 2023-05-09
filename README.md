@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUOOnrjuH3cT6u_9TP_2jIH9xEaLVtDyeVxhgEV5fHfC11Nya3vhzkr5TxjaA8G_s-w"/>
  <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=beanDango&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=sahughes123&style=flat-square&color=blue" alt=""/>
   </div>
   <h1>
   hi there
