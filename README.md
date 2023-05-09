@@ -24,8 +24,8 @@ A little about me:
 </div>
 
 ## :fire: My Stats :
- [![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=beandango&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beandango&layout=compact&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahughes123&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahughes123&layout=compact&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
