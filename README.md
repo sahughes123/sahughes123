@@ -18,9 +18,10 @@ A little about me:
 * I have a pet snake named Soup
 * Learning is pretty cool
 
-### Here's a pic of Soup!
+### Here's Soup!
 <div>
-  <p style="float: left;"><img src="https://media.discordapp.net/attachments/775834897742823478/1072191882299449365/ezgif.com-resize.jpeg"></p>
+  <img style="float: left;margin: 5px;" src="https://media.discordapp.net/attachments/775834897742823478/1072191882299449365/ezgif.com-resize.jpeg" height="350px"></img>
+  <img style="float: right;" src="https://media.discordapp.net/attachments/848045038406860830/1105433493409902693/Fuu-mWaWYAIMnvw.png?width=1138&height=1138" height="350px"></img>
 </div>
 
 ## :fire: My Stats :
