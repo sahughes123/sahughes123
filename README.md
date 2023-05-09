@@ -13,8 +13,8 @@
 
 A little about me:
 
-* Full-Time University student
-* Computer Science Major + Math Minor
+* Computer Science Major + Math Minor at University of Akron
+* Software Engineering Co-op at Emerson
 * I have a pet snake named Soup
 * Learning is pretty cool
 
