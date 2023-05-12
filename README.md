@@ -17,6 +17,7 @@ A little about me:
 * Software Engineering Co-op at Emerson
 * I have a pet ball python named Soup
 * Learning is pretty cool
+* I definitely did not rip this readme straight from my personal github
 
 ### Here's Soup!
 <div>
