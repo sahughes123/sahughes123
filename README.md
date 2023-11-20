@@ -14,7 +14,7 @@
 A little about me:
 
 * Software Engineering Co-op at Emerson
-* * Software Engineering student at WGU
+* Software Engineering student at WGU
 * I have a pet ball python named Soup
 * I definitely did not rip this readme straight from my personal github
 
