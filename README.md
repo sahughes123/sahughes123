@@ -13,10 +13,9 @@
 
 A little about me:
 
-* Computer Science Major + Math Minor at University of Akron
 * Software Engineering Co-op at Emerson
+* * Software Engineering student at WGU
 * I have a pet ball python named Soup
-* Learning is pretty cool
 * I definitely did not rip this readme straight from my personal github
 
 ### Here's Soup!
