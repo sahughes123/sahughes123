@@ -32,10 +32,6 @@ A little about me:
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="30px"></img>
 <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="30px"></img>
 
-## :fire: My Stats :
- [![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahughes123&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahughes123&layout=compact&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **sahughes123/sahughes123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
