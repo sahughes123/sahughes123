@@ -9,7 +9,12 @@
 </h1>
 </div>
 
-## I'm Sarah
+<img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" height="30px"></img>
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="30px"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" height="30px"></img>
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="30px"></img>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="30px"></img>
+<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="30px"></img>
 
 A little about me:
 
@@ -24,13 +29,7 @@ A little about me:
   <img style="float: right;" src="https://media.discordapp.net/attachments/848045038406860830/1105433493409902693/Fuu-mWaWYAIMnvw.png?width=1138&height=1138" height="350px"></img>
 </div>
 
-### Languages i've used:
-<img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" height="30px"></img>
-<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="30px"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" height="30px"></img>
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="30px"></img>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="30px"></img>
-<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="30px"></img>
+
 
 
 <!--
